@@ -6,7 +6,6 @@ public class PlayerMovement : MonoBehaviour
 
     private void Awake()
     {
-        
         body = GetComponent<Rigidbody2D>();
     }
 
